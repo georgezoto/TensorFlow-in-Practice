@@ -11,16 +11,16 @@ http://bit.ly/deep-learning-tf
 Join us on Slack:  
 https://join.slack.com/t/deeplearninga-nmk8930/shared_invite/zt-d52h9mm9-h~Q0ZXw5PXsTDzPIlNIvog
 
-Code repository for TensorFlow in Practice Specialization at:  
+TensorFlow in Practice Specialization:  
 https://www.coursera.org/specializations/tensorflow-in-practice
 
-Visits Laurence's github repository for this specialization at:  
+Visits Laurence's github repository for this specialization:  
 https://github.com/lmoroney/dlaicourse/
 
 Differentiate yourself with the TensorFlow Developer Certificate:  
 https://www.tensorflow.org/certificate
 
-View our interactive presentations here. If you prefer static pdf presentations, please look at our Presentation folder above. Special attribution goes to Coursera and deeplearning.ai for allowing us to borrow some of their great content.
+View our interactive presentations here. If you prefer static pdf presentations, please look at our Presentations folder above. Special attribution goes to Coursera and deeplearning.ai for allowing us to borrow some of their great content.
 
 * Deep-Learning-Adventures-Chapter-1-Presentation-1  
 https://docs.google.com/presentation/d/18nAqidaH_4CzZyh_1e23gR88aIgFxCuIT7YmMgmnjwg/edit?usp=sharing
