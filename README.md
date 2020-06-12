@@ -1,14 +1,24 @@
 # TensorFlow-in-Practice
 
-Join our Deep Learning Adventures community and become an expert in Deep Learning, TensorFlow, Computer Vision, Convolutional Neural Networks, Kaggle Challenges, Data Augmentation and Dropouts Transfer Learning, Multiclass Classifications and Overfitting and Natural Language Processing NLP as well as Time Series Forecasting 😀  
-All while having fun learning and participating in our Deep Learning Trivia games 🎉  
+Join our Deep Learning Adventures community and become an expert in Deep Learning, TensorFlow, Computer Vision, Convolutional Neural Networks, Kaggle Challenges, Data Augmentation and Dropouts Transfer Learning, Multiclass Classifications and Overfitting and Natural Language Processing NLP as well as Time Series Forecasting 😀 Join us and earn your TensorFlow Developer Certificate! All while having fun learning and participating in our Deep Learning Trivia games 🎉  
+
+Meetup page 😀    
+https://www.meetup.com/Deep-Learning-Adventures
+
+YouTube recordings of all Meetups 🎉    
 http://bit.ly/deep-learning-tf  
 
-* Code repository for TensorFlow in Practice Specialization at:  
+Join us on Slack:  
+https://join.slack.com/t/deeplearninga-nmk8930/shared_invite/zt-d52h9mm9-h~Q0ZXw5PXsTDzPIlNIvog
+
+Code repository for TensorFlow in Practice Specialization at:  
 https://www.coursera.org/specializations/tensorflow-in-practice
 
-* Visits Laurence's github repository for this specialization at:  
+Visits Laurence's github repository for this specialization at:  
 https://github.com/lmoroney/dlaicourse/
+
+Differentiate yourself with the TensorFlow Developer Certificate:  
+https://www.tensorflow.org/certificate
 
 View our interactive presentations here. If you prefer static pdf presentations, please look at our Presentation folder above. Special attribution goes to Coursera and deeplearning.ai for allowing us to borrow some of their great content.
 
