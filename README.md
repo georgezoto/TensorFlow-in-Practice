@@ -10,6 +10,23 @@ https://www.coursera.org/specializations/tensorflow-in-practice
 Visits Laurence's github repository for this specialization at:  
 https://github.com/lmoroney/dlaicourse/
 
+View our interactive presentations here. If you prefer static pdf presentations, please look at our Presentation folder above. Special attribution goes to Coursera and deeplearning.ai for allowing us to borrow some of their great content.
+
+Deep-Learning-Adventures-Chapter-1-Presentation-1  
+https://docs.google.com/presentation/d/18nAqidaH_4CzZyh_1e23gR88aIgFxCuIT7YmMgmnjwg/edit?usp=sharing
+
+Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-2  
+https://docs.google.com/presentation/d/1GEvlIo8g_OFWWq7S3Ob82wRh5NroXpVSivRvVjFpm4Q/edit?usp=sharing
+
+Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-3  
+https://docs.google.com/presentation/d/1vKOwYrABaGCvHMM8wnK0vb6NNzfHLQREYQI2UXiFzJ0/edit?usp=sharing
+
+Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-4  
+https://docs.google.com/presentation/d/1DAXyuNew5YDEzSakYjvbdIvCf_eNbZ6s69iyDBvHT2w/edit?usp=sharing
+
+Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-5  
+https://docs.google.com/presentation/d/1gUJsRmuc_7beCoS3x2BiEWjJflcenyIQiqZMcyMLL-M/edit?usp=sharing
+
 ![alt text](images/DLA-0.png)
 ![alt text](images/DLA-1.png)
 ![alt text](images/DLA-0.5.png)
