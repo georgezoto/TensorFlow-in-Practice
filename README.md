@@ -12,6 +12,7 @@ https://github.com/lmoroney/dlaicourse/
 
 ![alt text](images/DLA-0.png)
 ![alt text](images/DLA-1.png)
+![alt text](images/DLA-0.5.png)
 ![alt text](images/DLA-2.png)
 ![alt text](images/DLA-3.png)
 ![alt text](images/DLA-4.png)
