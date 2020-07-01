@@ -68,7 +68,7 @@ https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&
 ![alt text](images/DLA-10.png)
 ![alt text](images/DLA-11.png)
 ![alt text](images/DLA.png)
-![alt text](images/DLA-11.png)
+![alt text](images/DLA-12.png)
 
 ![alt text](images/TensorFlow-in-Practice-1.png)
 ![alt text](images/TensorFlow-in-Practice-2.png)
