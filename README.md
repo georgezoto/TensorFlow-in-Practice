@@ -37,6 +37,23 @@ https://docs.google.com/presentation/d/1DAXyuNew5YDEzSakYjvbdIvCf_eNbZ6s69iyDBvH
 * Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-5  
 https://docs.google.com/presentation/d/1gUJsRmuc_7beCoS3x2BiEWjJflcenyIQiqZMcyMLL-M/edit?usp=sharing
 
+Practice your skills while having fun with our Deep Learning Trivia games 🎉  
+* Deep Learning Trivia Game 1, covering basic TensorFlow syntax, Keras, dense network, optimizer and more:    
+https://quizizz.com/join/quiz/5e87bdbc07fa7f001b120404/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+
+* Deep Learning Trivia Game 2, covering computer vision, Fashion-MNIST, sparse categorical and binary crossentropy loss, convolutional neural networks, max pooling, ImageDataGenerator and more:  
+https://quizizz.com/join/quiz/5e90e8e631fb32001f63510b/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+
+* Deep Learning Trivia Game 3  
+https://quizizz.com/join/quiz/5eae10a807df73001b0c59a4/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+
+* Deep Learning Trivia Game 4  
+https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+
+* Deep Learning Trivia Game 5  
+https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+
+
 ![alt text](images/DLA-0.png)
 ![alt text](images/DLA-1.png)
 ![alt text](images/DLA-0.5.png)
@@ -47,7 +64,11 @@ https://docs.google.com/presentation/d/1gUJsRmuc_7beCoS3x2BiEWjJflcenyIQiqZMcyML
 ![alt text](images/DLA-6.png)
 ![alt text](images/DLA-7.png)
 ![alt text](images/DLA-8.png)
+![alt text](images/DLA-9.png)
+![alt text](images/DLA-10.png)
+![alt text](images/DLA-11.png)
 ![alt text](images/DLA.png)
+![alt text](images/DLA-11.png)
 
 ![alt text](images/TensorFlow-in-Practice-1.png)
 ![alt text](images/TensorFlow-in-Practice-2.png)
