@@ -14,7 +14,7 @@ https://join.slack.com/t/deeplearninga-nmk8930/shared_invite/zt-d52h9mm9-h~Q0ZXw
 TensorFlow in Practice Specialization:  
 https://www.coursera.org/specializations/tensorflow-in-practice
 
-Visits Laurence's github repository for this specialization:  
+Visits Laurence's GitHub repository for this specialization:  
 https://github.com/lmoroney/dlaicourse/
 
 Differentiate yourself with the TensorFlow Developer Certificate:  
