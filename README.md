@@ -51,7 +51,7 @@ https://quizizz.com/join/quiz/5eae10a807df73001b0c59a4/start?from=soloLinkShare&
 https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
 * Deep Learning Trivia Game 5  
-https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
+https://quizizz.com/join/quiz/5eefd13d3db4b8001bb6d72b/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
 
 ![alt text](images/DLA-0.png)
