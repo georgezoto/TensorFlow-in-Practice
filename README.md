@@ -37,6 +37,12 @@ https://docs.google.com/presentation/d/1DAXyuNew5YDEzSakYjvbdIvCf_eNbZ6s69iyDBvH
 * Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-5  
 https://docs.google.com/presentation/d/1gUJsRmuc_7beCoS3x2BiEWjJflcenyIQiqZMcyMLL-M/edit?usp=sharing
 
+* Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-6  
+https://docs.google.com/presentation/d/1KdKcq97grYYcTmkoEvwSOElK1TI_Son69CRae3wPk14/edit?usp=sharing
+
+* Deep-Learning-Adventures-Tensorflow-In-Practice-Presentation-7  
+https://docs.google.com/presentation/d/1UiIgy06YmYx8z1o23Z7Qb9ZyIFWismF52OSBpUq8niA/edit?usp=sharing
+
 Practice your skills while having fun with our Deep Learning Trivia games 🎉  
 * Deep Learning Trivia Game 1, covering basic TensorFlow syntax, Keras, dense network, optimizer and more:    
 https://quizizz.com/join/quiz/5e87bdbc07fa7f001b120404/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
