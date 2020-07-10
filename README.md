@@ -50,13 +50,13 @@ https://quizizz.com/join/quiz/5e87bdbc07fa7f001b120404/start?from=soloLinkShare&
 * Deep Learning Trivia Game 2, covering computer vision, Fashion-MNIST, sparse categorical and binary crossentropy loss, convolutional neural networks, max pooling, ImageDataGenerator and more:  
 https://quizizz.com/join/quiz/5e90e8e631fb32001f63510b/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
-* Deep Learning Trivia Game 3  
+* Deep Learning Trivia Game 3, covering convolutional neural networks in TensorFlow, larger datasets, techniques to avoid overfitting, transfer learning, multiclass classification and more:  
 https://quizizz.com/join/quiz/5eae10a807df73001b0c59a4/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
-* Deep Learning Trivia Game 4  
+* Deep Learning Trivia Game 4, natural language processing in TensorFlow, sentiment in text, word embeddings, sequence models, RNNs, LSTMs, sequence models applications and more:  
 https://quizizz.com/join/quiz/5eb71e0e09cdea001c916ac6/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
-* Deep Learning Trivia Game 5  
+* Deep Learning Trivia Game 5, covering sequences, time series and prediction using TensorFlow, statistical methods, deep neural networks for time series, recurrent neural networks for time series, real-world time series data and more:  
 https://quizizz.com/join/quiz/5eefd13d3db4b8001bb6d72b/start?from=soloLinkShare&referrer=5d921444d0fa99001a135336
 
 
